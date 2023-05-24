@@ -2,5 +2,14 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="sec03.exam03.CarExam"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="sec04.exam02.Computer"/>
+<fullyQualifiedTypeName name="sec04.exam03.Car"/>
+<fullyQualifiedTypeName name="sec04.exam04.Calculator"/>
+<fullyQualifiedTypeName name="sec04.exam05.CarExam"/>
+<fullyQualifiedTypeName name="sec04.exam05.Car"/>
+<fullyQualifiedTypeName name="sec04.exam06.Calculator"/>
+<fullyQualifiedTypeName name="sec05.exam02.CalculatorExample"/>
+<fullyQualifiedTypeName name="sec05.exam02.Calculator"/>
 </qualifiedTypeNameHistroy>
